@@ -32,11 +32,6 @@
    </column>
    <column>
     <property name="text">
-     <string>Constrains</string>
-    </property>
-   </column>
-   <column>
-    <property name="text">
      <string>ID</string>
     </property>
    </column>
